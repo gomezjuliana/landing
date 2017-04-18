@@ -1,0 +1,80 @@
+body {
+	margin: 0;
+}
+
+header{
+	background-color: black;
+	color: yellow;
+}
+.logo img {
+	width: 100%
+}
+
+.menu {
+	width: 100%;
+	text-align: center;
+}
+
+ul {
+	margin: 0;
+	padding: 0 0 5%;
+	list-style: none;
+}
+
+video {
+	width: 100%;
+}
+
+.banner {
+	background-color: black;
+	height: 10em;
+}
+
+.top {
+	background-color: black;
+	color: white;
+}
+
+p {
+	margin: 0;
+	padding: 5%;
+}
+
+footer {
+	background-color: black;
+}
+
+input {
+	display: block;
+	text-align: center;
+	margin: 5% auto;
+	padding: 2%;
+}
+
+form {
+	padding: 5%;
+}
+
+h2 {
+	text-align: center;
+}
+
+footer .logo {
+	width: 50%
+}
+
+.benefitboxes div,
+.courseboxes div {
+	background-color: whitesmoke;
+	margin: 3% 5%;
+	text-align: center;
+}
+
+.benefitboxes div img {
+	width: 25%;
+	padding-top: 5%;
+}
+
+.courseboxes button {
+	margin-bottom: 5%;
+}
