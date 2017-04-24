@@ -78,3 +78,40 @@ footer .logo {
 .courseboxes button {
 	margin-bottom: 5%;
 }
+
+@media (min-width: 768px){
+	.logo img {
+		width: 25%;
+	}
+
+	.menu {
+		text-align: right;
+	}
+
+	li {
+		display: inline;
+		padding-right: 5%;
+	}
+
+	.benefitboxes,
+	.courseboxes {
+		text-align: center;
+	}
+
+	.benefitboxes div {
+		display: inline-block;
+		width: 30%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+
+	.courseboxes div {
+		display: inline-block;
+		width: 40%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+
+
+
+}
