@@ -112,6 +112,18 @@ footer .logo {
 		margin-right: 1%;
 	}
 
+	.textbox {
+		position: absolute;
+		width: 50%;
+		float: left;
+	}
+
+	.form {
+		position: absolute;
+		transform: translateY(-200%);
+		right: 100px;
+	}
+
 
 
 }
